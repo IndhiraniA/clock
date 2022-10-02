@@ -4,7 +4,6 @@ var lunchtime = 12;
 var Night = lunchtime + 2;
 var partytime;
 var evening = 18;
-
 // Getting it to show the current time on the page
 var showCurrentTime = function()
 {
